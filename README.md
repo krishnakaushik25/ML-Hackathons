@@ -1,7 +1,7 @@
 # ML-Hackathons
 List of ML hackathons I participated
 
-- [Amazon ML Challenge Amazon](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/) 
+- [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/) 
 
 Code Solution and approach presented in Slides: [Ensembling of different NLP MODELS](https://github.com/DebarshiChanda/Amazon-ML-Challenge2021)
 
